@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-#include "../treeDebug/tree.hpp"
-#include "../treeDebug/benchmark.hpp"
+#include "../tree.hpp"
+#include "../benchmark.hpp"
 using namespace std;
 
 // Define the Student struct

@@ -3,8 +3,8 @@
 #include <vector>
 #include <string>
 #include <conio.h>
-#include "../treeDebug/tree.hpp"
-#include "../treeDebug/benchmark.hpp"
+#include "../tree.hpp"
+#include "../benchmark.hpp"
 using namespace std;
 struct node
 {
