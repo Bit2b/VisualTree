@@ -1,4 +1,4 @@
-# A C++ Header File for Binary Tree and BST
+# A C++ Generic Header File for Binary Tree and BST
 <details>
 The tree.h header file Provide two template functions <br>
 which user can use after including relative path of the header file in your program - <br>
