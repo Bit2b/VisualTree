@@ -1,5 +1,5 @@
 #pragma once
 
-//added some loosl copuled modles togather 
+//added some loosly copuled modules togather 
 #include "treeHorizontalPrint.hpp"
 #include "treeVerticalPrint.hpp"
